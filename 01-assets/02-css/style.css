@@ -1,18 +1,18 @@
-.main-container{
+.container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(../01-image/02-images/bg-desktop.svg) hsl(257, 40%, 49%);
+    background: url(../01-image/02-images/bg-desktop.svg) center center no-repeat hsl(257, 40%, 49%);
     background-size: cover;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
 
-.main-container header{
+.container header{
     padding: 50px;
 }
 
-.main-container main{
+.container article{
     display: flex;
 }
 
@@ -20,7 +20,7 @@
     margin: 40px 50px ;
 }
 
-.section-contents h1{
+.section-contents h2{
     width: 530px;
     font-size: 3rem;
     font-weight: 600;
@@ -47,7 +47,7 @@
     cursor: pointer;
 }
 
-.main-container footer{
+.container footer{
     display: flex;
     align-self: flex-end;
     padding: 50px;
