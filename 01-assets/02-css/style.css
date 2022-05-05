@@ -1,18 +1,18 @@
-.container{
+.main-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(../01-image/02-images/bg-desktop.svg) center center no-repeat hsl(257, 40%, 49%);
+    background: url(../01-image/02-images/bg-desktop.svg) hsl(257, 40%, 49%);
     background-size: cover;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
 
-.container header{
+.main-container header{
     padding: 50px;
 }
 
-.container article{
+.main-container main{
     display: flex;
 }
 
@@ -47,7 +47,7 @@
     cursor: pointer;
 }
 
-.container footer{
+.main-container footer{
     display: flex;
     align-self: flex-end;
     padding: 50px;
