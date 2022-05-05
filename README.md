@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click-me](https://your-solution-url.com)
-- Live Site URL: [Click-me](https://your-live-site-url.com)
+- Solution URL: [Click-me](https://www.frontendmentor.io/solutions/purpure-huddle-landingpage-SJw-a1ZUc)
+- Live Site URL: [Click-me](https://gugas1lva.github.io/Fr.Mentor-05--Purpure.Huddle/)
 
 ## My process
 
