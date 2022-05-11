@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../01-image/01-design/desktop-preview.jpg)
+![](../Fr.Mentor-05--Purpure.Huddle/01-assets/01-image/01-design/desktop-preview.jpg)
 
 ### Links
 
